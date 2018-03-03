@@ -1,7 +1,6 @@
 extends: 'eslint-config-sinon'
 
 env:
-  amd: false
   browser: true
   node: true
 
